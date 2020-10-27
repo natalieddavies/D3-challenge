@@ -6,7 +6,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 This task utilises both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
 
-# Scatted
+# Scatter Plot
 
 * Graphic is coded in the `app.js` file
 * Pulled in the data from `data.csv` by using the `d3.csv` function 
